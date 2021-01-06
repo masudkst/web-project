@@ -1,0 +1,156 @@
+body{
+    margin: 0;
+    font-family: 'Josefin Sans', sans-serif;
+     font-family: 'Roboto', sans-serif;
+}
+a{
+    text-decoration: none;
+}
+
+.first_part{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding: 2%;
+
+}
+.first_part h1{
+    font-weight: bold;
+    font-size: 80px;
+    color: #3D4064;
+}
+.first_part img{
+    width: 100%;
+    background-position: center;
+}
+
+.first_part h2{
+    font-weight: bold;
+    font-size: 56px;
+    color: #FF8367;
+}
+.first_part h3{
+    font-weight: bold;
+    font-size: 56px;
+    color: #363958;
+}
+.first_part p{
+    color: #3E3E3E;
+    font-size: 16px;
+   
+}
+.button{
+    background-color: orange;
+    border: 1px solid ;
+    padding: 10px 20px;
+    border-radius: 5px;
+    text-decoration: none;
+    color: white;
+     background-image: linear-gradient(45deg,salmon, tomato);
+     display: inline-block;
+     margin-top: 10px;
+}
+
+.header_part img{
+    width: 100%;
+    background-position: center;
+}
+.portfolio{
+    margin-left: 3%;
+    width: 30%;
+    float: left;
+    height: 75%;
+    box-shadow: 10px 10px 40px gray;
+    background-color: white;
+    margin-bottom: 150px;
+    
+    
+  
+
+}
+.portfolio img{
+    width: 100%;
+    background-position: center;
+}
+.portfolio h5{
+    color: #363958;
+padding-left: 10px;
+}
+.portfolio p{
+    color: red;
+    padding-left: 10px;
+}
+.work_project{
+    font-size: 30px;
+    font-weight: bold;
+    margin: 70px;
+    text-align: center;
+    color: #363958;
+}
+.text_color{
+    color: #F46060;
+    font-size: 48px;
+    font-weight: bold;
+}
+
+.clear{
+    clear: both;
+}
+
+.inquires {
+    
+    text-align: center;
+ 
+
+  }
+  .bg{
+      width: 60%;
+      height: 150px;
+      text-align: center;
+    
+       margin: auto;
+    
+  }
+  .bg_pic{
+      background-position: center;
+      width: 100%;
+      height: 100%;
+      background-image: url(image/Group_33094_1.png);
+      background-size: cover;
+  }
+  .bg_text1{
+      width: 60%;
+      height: 100%;
+      float: left;
+    
+      
+      color: thistle;
+  }
+  .bg_text2{
+      width: 30%;
+      height: 100%;
+      float: left;
+      text-align: center;
+      
+  }
+  .inquires img{
+     width: 2%;      
+      
+  }
+  
+  
+  
+  
+  
+  .ftr{
+      color: yellow;
+      padding-top: 20px;
+      width: 100%;
+      height: 60px;
+      background-color: #F46060;
+      text-align: center;
+  }
+
+section{
+    height: 600px;
+}
